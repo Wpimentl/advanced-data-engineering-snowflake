@@ -68,6 +68,7 @@ CREATE TABLE {{env}}_tasty_bytes.raw_pos.country
    city_id NUMBER(19,0)
 );
 
+---
 
 -- franchise table build
 CREATE OR ALTER TABLE {{env}}_tasty_bytes.raw_pos.franchise
